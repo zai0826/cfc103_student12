@@ -1,11 +1,11 @@
-# ¿¿CFC103¿student99¿¿¿¿¿
+# é€™æ˜¯CFC103ç­student99å­¸å“¡çš„å°ˆæ¡ˆ
 
 
- 1. ¿¿¿¿XXXX
-  2. ¿¿XXXXX
-   3. ¿¿¿¿¿¿
+ 1. è«‹å…ˆä¸‹è¼‰XXXX
+  2. å®‰è£XXXXX
+   3. ä»”ç´°é–±è®€æ–‡ä»¶
 
-   ¿¿¿¿: [Google¿¿¿](https://www.google.com.tw/)
+   åƒè€ƒé€£çµ: [Googleçš„é¦–é ](https://www.google.com.tw/)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-   > ¿¿¿¿¿¿: ¿¿¿¿¿¿
+   > å­”å­æ›¾ç¶“èªªéŽ: ã€Œæœ‰æ•™ç„¡é¡žã€
 
 
        #!/bin/bash
